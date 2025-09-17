@@ -9,8 +9,7 @@
 ### ขั้นตอนการติดตั้ง
 1. ดาวน์โหลดที่เก็บนี้มาบนเครื่อง
    ```bash
-   git clone <repository-url>
-   cd internship-2024-main
+   gh repo clone Orcasamaaaa/intern_Nattajak
    ```
 2. สร้าง virtual environment (แนะนำให้ใช้เพื่อแยกสภาพแวดล้อม)
    ```bash
