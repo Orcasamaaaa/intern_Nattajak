@@ -16,9 +16,9 @@
    python -m venv venv
    ```
 3. เปิดใช้งาน virtual environment
-   - Windows PowerShell:
-     ```powershell
-     .\venv\Scripts\Activate.ps1
+   - cmd:
+     ```bash
+     venv/Scripts/activate
      ```
    - macOS/Linux:
      ```bash
